@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "887b8b27becd3863fdd53419e0c09b9b",
+    "revision": "d0e15e294400e75c1efa0daba38688c7",
     "url": "/inrainorshine_weatherapp/index.html"
   },
   {
-    "revision": "c7b9c08a739b48bf3d65",
+    "revision": "f440ff0625a479af6af5",
     "url": "/inrainorshine_weatherapp/static/css/main.2c97d726.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/inrainorshine_weatherapp/static/js/2.c75eee3e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c7b9c08a739b48bf3d65",
-    "url": "/inrainorshine_weatherapp/static/js/main.cc27c72a.chunk.js"
+    "revision": "f440ff0625a479af6af5",
+    "url": "/inrainorshine_weatherapp/static/js/main.cc593b09.chunk.js"
   },
   {
     "revision": "9e4a851eefcb17cf89db",
