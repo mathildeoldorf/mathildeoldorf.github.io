@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/inrainorshine_weatherapp/static/css/main.2c97d726.chunk.css",
+    "main.js": "/inrainorshine_weatherapp/static/js/main.cc27c72a.chunk.js",
+    "main.js.map": "/inrainorshine_weatherapp/static/js/main.cc27c72a.chunk.js.map",
+    "runtime-main.js": "/inrainorshine_weatherapp/static/js/runtime-main.5b71739c.js",
+    "runtime-main.js.map": "/inrainorshine_weatherapp/static/js/runtime-main.5b71739c.js.map",
+    "static/js/2.c75eee3e.chunk.js": "/inrainorshine_weatherapp/static/js/2.c75eee3e.chunk.js",
+    "static/js/2.c75eee3e.chunk.js.map": "/inrainorshine_weatherapp/static/js/2.c75eee3e.chunk.js.map",
+    "index.html": "/inrainorshine_weatherapp/index.html",
+    "precache-manifest.11fbea2974f043c823dbe7b6212f1c80.js": "/inrainorshine_weatherapp/precache-manifest.11fbea2974f043c823dbe7b6212f1c80.js",
+    "service-worker.js": "/inrainorshine_weatherapp/service-worker.js",
+    "static/css/main.2c97d726.chunk.css.map": "/inrainorshine_weatherapp/static/css/main.2c97d726.chunk.css.map",
+    "static/js/2.c75eee3e.chunk.js.LICENSE.txt": "/inrainorshine_weatherapp/static/js/2.c75eee3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b71739c.js",
+    "static/js/2.c75eee3e.chunk.js",
+    "static/css/main.2c97d726.chunk.css",
+    "static/js/main.cc27c72a.chunk.js"
+  ]
+}
